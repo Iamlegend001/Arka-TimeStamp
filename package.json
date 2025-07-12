@@ -1,5 +1,5 @@
 {
-  "name": "@arkaprava/timestamp",
+  "name": "@arka_legend/timestamp",
   "version": "1.0.0",
   "description": "A simple JavaScript utility library to get ISO strings, Unix timestamps, and formatted time.",
   "main": "index.js",
