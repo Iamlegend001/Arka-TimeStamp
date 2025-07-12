@@ -8,12 +8,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arkaprava/timestamp.git"
+    "url": "https://github.com/Iamlegend001/Arka-TimeStamp.git"
   },
   "bugs": {
-    "url": "https://github.com/arkaprava/timestamp/issues"
+    "url": "https://github.com/Iamlegend001/Arka-TimeStamp/issues"
   },
-  "homepage": "https://github.com/arkaprava/timestamp#readme",
+  "homepage": "https://github.com/Iamlegend001/Arka-TimeStamp#readme",
   "scripts": {
     "test": "echo \"No tests yet\" && exit 0"
   }
