@@ -1,0 +1,20 @@
+{
+  "name": "@arkaprava/timestamp",
+  "version": "1.0.0",
+  "description": "A simple JavaScript utility library to get ISO strings, Unix timestamps, and formatted time.",
+  "main": "index.js",
+  "keywords": ["timestamp", "date", "time", "utility", "javascript", "format", "unix", "iso"],
+  "author": "Arkaprava Santra <arkapravasantra17@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arkaprava/timestamp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arkaprava/timestamp/issues"
+  },
+  "homepage": "https://github.com/arkaprava/timestamp#readme",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  }
+}
