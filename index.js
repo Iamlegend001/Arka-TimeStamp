@@ -1,5 +1,5 @@
 function getTimeStamp() {
-  return new Date(), toISOString();
+  return new Date().toISOString(); // ✅ Fix: call toISOString() on the Date object
 }
 
 function getUnixTimeStamp() {
@@ -14,7 +14,7 @@ function formatTime(date = new Date()) {
     second: "2-digit",
     day: "2-digit",
     month: "short",
-    year: "numeric",
+    year: "numeric"
   });
 }
 
@@ -22,4 +22,4 @@ module.exports = {
   getTimeStamp,
   getUnixTimeStamp,
   formatTime
-}
+};
